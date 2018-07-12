@@ -1,0 +1,1 @@
+This project is to store log messages into database and to maintan betetr understandadility to user
